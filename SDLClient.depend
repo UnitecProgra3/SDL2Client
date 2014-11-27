@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1410221575 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/SDLClient/main.cpp
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<iostream>
+	<string>
+	<SDL2/SDL_net.h>
+
+1410227263 source:/home/turupawn/Projects/Codeblocks/Clases/anterior/Progra3/SDLClient/main.cpp
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<iostream>
+	<string>
+	<SDL2/SDL_net.h>
+
